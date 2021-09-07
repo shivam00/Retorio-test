@@ -30,8 +30,34 @@ This Project is made to get the following data
 
   header ```{token : '8dccc1eaa3154e389b26d4a55ec998db'}```
 
-  body ``` {
+  body 
+  
+  ``` {
   "season":"2018",
   "teamName":"Manchester City FC",
+  "competitionCode": "PL"
+  }```
+  
+  ``` {
+  "season":"2019",
+  "teamName":"Manchester City FC",
+  "competitionCode": "PL"
+  }```
+  
+  ``` {
+  "season":"2018",
+  "teamName":"Manchester City FC",
+  "competitionCode": "CL"
+  }```
+
+  ``` {
+  "season":"2018",
+  "teamName":"Manchester United FC",
+  "competitionCode": "CL"
+  }```
+
+  ``` {
+  "season":"2018",
+  "teamName":"Manchester United FC",
   "competitionCode": "PL"
   }```
